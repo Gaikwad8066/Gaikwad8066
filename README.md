@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Ket-0626&show_icons=true&theme=dark&locale=en" alt="Ket-0626" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ket-0626&show_icons=true&theme=dark&locale=en&layout=compact" alt="ket-0626" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Gaikwad8066&show_icons=true&theme=dark&locale=en" alt="Gaikwad8066" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaikwad8066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Gaikwad8066" /></td>
 <!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ket-0626&theme=dark" alt="Ket-0626" /></td> -->
 
   </tr>
